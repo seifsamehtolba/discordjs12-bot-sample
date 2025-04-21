@@ -1,0 +1,41 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bugless-Developer/skylar-beta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bugless-Developer/skylar-beta/issues"
+  },
+  "homepage": "https://github.com/Bugless-Developer/skylar-beta#readme",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "date-and-time": "^0.14.0",
+    "discord.js": "^12.3.0",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "giphy-api": "^1.0.6",
+    "hastebin": "^0.2.1",
+    "jshint": "^2.12.0",
+    "log-symbols": "^4.0.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.1",
+    "random-string": "^0.2.0",
+    "randomstring": "^1.1.5"
+  }
+}
